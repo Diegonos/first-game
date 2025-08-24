@@ -256,10 +256,10 @@ shape = SubResource("WorldBoundaryShape2D_p57ef")
 [node name="Coins" type="Node" parent="."]
 
 [node name="Coin" parent="Coins" instance=ExtResource("4_lbhrr")]
-position = Vector2(-264, 9)
+position = Vector2(-256, -29)
 
 [node name="Coin9" parent="Coins" instance=ExtResource("4_lbhrr")]
-position = Vector2(-167, 9)
+position = Vector2(-182, -34)
 
 [node name="Coin2" parent="Coins" instance=ExtResource("4_lbhrr")]
 position = Vector2(47, -104)
