@@ -230,7 +230,7 @@ libraries = {
 }
 autoplay = "move"
 
-[node name="Player" parent="." instance=ExtResource("1_uwrxv")]
+[node name="Player" parent="." groups=["Player"] instance=ExtResource("1_uwrxv")]
 position = Vector2(-18, -2)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
