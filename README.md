@@ -1,4 +1,4 @@
-# 🌌 Godot platform POC
+# Godot platform POC
 
 This project is a **Proof of Concept (POC)** created to explore and experiment with the **Godot** game engine.  
 The goal is to try it out following a web tutorial but also adding something on my own.
